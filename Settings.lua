@@ -1,5 +1,7 @@
 getgenv().Commands =  {
-    RenderingEnabled = true
+    {
+        RenderingEnabled = true
+    }
 }
 
 getgenv().settings = {
