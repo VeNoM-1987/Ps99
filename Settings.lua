@@ -4,7 +4,12 @@ getgenv().Commands =  {
 }
 
 getgenv().settings = {
-    {
+   {
+        item = "Nuclear Cannon",
+        maxPrice = 100000000,
+        class = "Misc"
+   }
+    --[[{
         item = "Void Key Upper Half",
         maxPrice = 7000,
         class = "Misc"
@@ -16,7 +21,7 @@ getgenv().settings = {
     },
     {
         item = "Nuclear Cannon",
-        maxPrice = 100000,
+        maxPrice = 100000000,
         class = "Misc"
     }]]
 }
