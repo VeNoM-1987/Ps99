@@ -1,6 +1,6 @@
 getgenv().Commands =  {
     {
-        RenderingEnabled = true
+        RenderingEnabled = false
     }
 }
 
