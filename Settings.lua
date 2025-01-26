@@ -7,11 +7,13 @@ getgenv().settings = {
     {
         item = "Lightning Cannon",
         maxPrice = 2000000,
-        class = "Misc"
+        class = "Misc",
+        tier = 1
     }--[[,
     {
         item = "Nuclear Cannon",
         maxPrice = 100000,
-        class = "Misc"
+        class = "Misc",
+        tier = 1
     }]]
 }
