@@ -6,7 +6,7 @@ getgenv().Commands =  {
 getgenv().settings = {
    {
         item = "Nuclear Cannon",
-        maxPrice = 100000000,
+        maxPrice = 2000000000,
         class = "Misc"
    }
     --[[{
