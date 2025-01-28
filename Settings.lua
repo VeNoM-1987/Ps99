@@ -4,12 +4,18 @@ getgenv().Commands =  {
 }
 
 getgenv().settings = {
-   {
+    {
+        item = "Hellfire Core",
+        maxPrice = 1000000,
+        class = "Misc"
+    }
+        --[[
+    {
         item = "Nuclear Cannon",
         maxPrice = 2000000000,
         class = "Misc"
-   }
-    --[[{
+    }
+    {
         item = "Void Key Upper Half",
         maxPrice = 7000,
         class = "Misc"
