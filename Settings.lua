@@ -5,9 +5,9 @@ getgenv().Commands =  {
 
 getgenv().settings = {
     {
-        item = "Hellfire Core",
-        maxPrice = 200000,
-        class = "Misc",
+        item = "Cannon Luck Booster",
+        maxPrice = 70000,
+        class = "Consumable",
         maxInv = 1000
     }
     --[[
