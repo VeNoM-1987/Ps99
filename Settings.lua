@@ -6,8 +6,9 @@ getgenv().Commands =  {
 getgenv().settings = {
     {
         item = "Secret Key Upper Half",
-        maxPrice = 1000,
-        class = "Misc"
+        maxPrice = 2000,
+        class = "Misc",
+        maxInv = 1000
     }
     --[[
     {
